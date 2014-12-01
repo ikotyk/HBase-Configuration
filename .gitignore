@@ -1,0 +1,5 @@
+hadoop-metrics2-hbase.properties
+hbase-env.cmd
+hbase-policy.xml
+log4j.properties
+regionservers
