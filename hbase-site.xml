@@ -5,6 +5,6 @@
     </property>
     <property>
       <name>hbase.zookeeper.quorum</name>
-      <value>phcnn01.proddev.d2l,phcnn02.proddev.d2l,phcjz01.proddev.d2l</value>
+      <value>CertPHCNN01.ProdDev.D2L,CertPHCNN02.ProdDev.D2L,CertPHCJZ01.ProdDev.D2L</value>
     </property>
 </configuration>
