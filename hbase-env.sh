@@ -29,7 +29,7 @@
  export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 
 # Extra Java CLASSPATH elements.  Optional.
- export HBASE_CLASSPATH=/home/d2lepam/tools/hbase/ext/hbase-extensions-1.0-jar-with-dependencies.jar
+# export HBASE_CLASSPATH=/home/d2lepam/tools/hbase/ext/hbase-extensions-1.0-jar-with-dependencies.jar
 
 # The maximum amount of heap to use, in MB. Default is 1000.
 # export HBASE_HEAPSIZE=1000
@@ -121,7 +121,7 @@ export HBASE_OPTS="-XX:+UseConcMarkSweepGC"
 # export HBASE_SLAVE_SLEEP=0.1
 
 # Tell HBase whether it should manage it's own instance of Zookeeper or not.
- export HBASE_MANAGES_ZK=false
+ export HBASE_MANAGES_ZK=true
 
 # The default log rolling policy is RFA, where the log file is rolled as per the size defined for the 
 # RFA appender. Please refer to the log4j.properties file to see more details on this appender.
