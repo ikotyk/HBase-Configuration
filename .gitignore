@@ -3,3 +3,4 @@ hbase-env.cmd
 hbase-policy.xml
 log4j.properties
 regionservers
+readme.txt
