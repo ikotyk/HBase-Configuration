@@ -29,7 +29,7 @@
  export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 
 # Extra Java CLASSPATH elements.  Optional.
-# export HBASE_CLASSPATH=/home/d2lepam/tools/hbase/ext/hbase-extensions-1.0-jar-with-dependencies.jar
+ export HBASE_CLASSPATH=/home/d2lepam/tools/hbase/ext/hbase-extensions-1.0-jar-with-dependencies.jar
 
 # The maximum amount of heap to use, in MB. Default is 1000.
 # export HBASE_HEAPSIZE=1000
